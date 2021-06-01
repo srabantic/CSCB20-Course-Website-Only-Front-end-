@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+4. As a student user, the student should be able to see a calendar button on the home page and when clicked the student should see a page with a google calendar and the office hours of the professors and TA’s available for that week.

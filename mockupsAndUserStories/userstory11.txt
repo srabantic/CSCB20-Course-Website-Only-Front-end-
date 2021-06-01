@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+11. As a student user, when I click on the course team button, I should be able to see all the information of the TA’s and the instructor  (name, email, tutorials they are teaching and tutorial times along with their Office hours).

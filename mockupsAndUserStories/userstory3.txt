@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+3. As a student user, the student user must be able to see a footer that contains a link to the Faculty of Computer Science of Uoft, and a blurb of the names of the designers of the website.

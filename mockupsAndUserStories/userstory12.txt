@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+12. As a student user, the student should see a Resources button on the home page when clicked it should lead to a page that shows all the information pertaining to the online resources available for this course. The student should also see the software and documentation provided by the professor.

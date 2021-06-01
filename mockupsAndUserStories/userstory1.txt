@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+1. As a student user, the student must be able to view the course description, requirements, syllabus,the name and picture of the professor along with any other information regarding the professor’s office hours and contact information.

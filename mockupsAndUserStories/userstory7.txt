@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+7. As a student user, the student should see a lectures button on the home page when clicked it should lead to a page that shows all the lecture slides or worksheets and solutions provided.

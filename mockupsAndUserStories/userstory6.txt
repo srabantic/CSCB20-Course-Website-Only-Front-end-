@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+6. As a student user, the student must be able to see a discussion board button on the home page and when clicked should lead to a page where a link is provided to the piazza forum.

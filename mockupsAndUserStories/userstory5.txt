@@ -1,0 +1,4 @@
+﻿USER STORIES
+
+
+5. As a student user, the student should be able to see a new news button on the home page which when clicked should lead to a page for announcements, where the student can see all the announcements the professor makes to date.
